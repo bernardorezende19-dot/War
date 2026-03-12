@@ -106,6 +106,6 @@ int main(void)
         printf("Número de Tropas: %d\n", territorios[i].tropas);
     }
 
-    // Finaliza o programa indicando execução correta
     return 0;
 }
+
